@@ -39,14 +39,12 @@ platforms:
 - - steam
   - steamcommunity.com
   - www.steamcommunity.com
+  - media.steamcommunity.com
   - store.steampowered.com
   - api.steampowered.com
   - help.steampowered.com
-  - store.akamai.steamstatic.com
   - steamcdn-a.akamaihd.net
-  - cdn.akamai.steamstatic.com
   - steam-chat.com
-  - community.akamai.steamstatic.com
 - - Ubisoft_download
   - static3.cdn.Ubi.com
   - static2.cdn.Ubi.com
