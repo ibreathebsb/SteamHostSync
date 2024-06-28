@@ -40,64 +40,64 @@ win + R 后执行 `shell:startup`
 #github Start
 140.82.113.26			alive.github.com
 140.82.112.25			live.github.com
-185.199.109.154			github.githubassets.com
+185.199.111.154			github.githubassets.com
 140.82.112.21			central.github.com
-185.199.109.133			desktop.githubusercontent.com
+185.199.108.133			desktop.githubusercontent.com
 185.199.110.153			assets-cdn.github.com
-185.199.108.133			camo.githubusercontent.com
-185.199.110.133			github.map.fastly.net
-151.101.1.194			github.global.ssl.fastly.net
-140.82.112.4			gist.github.com
-185.199.111.153			github.io
-140.82.112.3			github.com
+185.199.110.133			camo.githubusercontent.com
+185.199.108.133			github.map.fastly.net
+151.101.193.194			github.global.ssl.fastly.net
+140.82.113.4			gist.github.com
+185.199.108.153			github.io
+140.82.112.4			github.com
 192.0.66.2			github.blog
 140.82.113.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
-185.199.111.133			user-images.githubusercontent.com
-185.199.108.133			favicons.githubusercontent.com
-185.199.110.133			avatars5.githubusercontent.com
+185.199.110.133			user-images.githubusercontent.com
+185.199.109.133			favicons.githubusercontent.com
+185.199.109.133			avatars5.githubusercontent.com
 185.199.110.133			avatars4.githubusercontent.com
 185.199.109.133			avatars3.githubusercontent.com
-185.199.110.133			avatars2.githubusercontent.com
-185.199.109.133			avatars1.githubusercontent.com
-185.199.111.133			avatars0.githubusercontent.com
+185.199.111.133			avatars2.githubusercontent.com
+185.199.111.133			avatars1.githubusercontent.com
+185.199.110.133			avatars0.githubusercontent.com
 185.199.111.133			avatars.githubusercontent.com
 140.82.114.10			codeload.github.com
-16.182.70.201			github-cloud.s3.amazonaws.com
-54.231.137.113			github-com.s3.amazonaws.com
-52.217.123.41			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.123.41			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.126.225			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.153			githubstatus.com
+3.5.25.97			github-cloud.s3.amazonaws.com
+52.217.96.196			github-com.s3.amazonaws.com
+54.231.232.177			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.22.0			github-production-user-asset-6210df.s3.amazonaws.com
+52.216.38.113			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153			githubstatus.com
 140.82.113.17			github.community
-52.224.38.193			github.dev
+20.99.227.183			github.dev
 185.199.110.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-06-28 06:16:20 
+# Last Update Time : 2024-06-28 09:17:35 
 
 #steam Start
-23.214.234.105			steamcommunity.com
-23.213.69.147			www.steamcommunity.com
-23.199.63.225			media.steamcommunity.com
-23.56.8.80			store.steampowered.com
-23.214.234.105			api.steampowered.com
-23.214.234.105			help.steampowered.com
-23.199.63.91			steamcdn-a.akamaihd.net
-23.213.69.147			steam-chat.com
+23.204.173.220			steamcommunity.com
+23.204.149.34			www.steamcommunity.com
+23.48.99.17			media.steamcommunity.com
+23.54.41.174			store.steampowered.com
+23.204.173.220			api.steampowered.com
+23.204.173.220			help.steampowered.com
+23.199.63.178			steamcdn-a.akamaihd.net
+23.204.149.34			steam-chat.com
 #steam End
-# Last Update Time : 2024-06-28 06:16:21 
+# Last Update Time : 2024-06-28 09:17:35 
 
 #Ubisoft_download Start
-23.222.201.62			static3.cdn.Ubi.com
-23.56.13.124			static2.cdn.Ubi.com
-2.16.40.64			static1.cdn.Ubi.com
+23.212.72.239			static3.cdn.Ubi.com
+23.32.129.102			static2.cdn.Ubi.com
+95.100.175.67			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-06-28 06:16:21 
+# Last Update Time : 2024-06-28 09:17:35 
 
 #Blizzard Start
-137.221.105.168			prod.actual.battle.net
+137.221.104.184			prod.actual.battle.net
 #Blizzard End
-# Last Update Time : 2024-06-28 06:16:21 
+# Last Update Time : 2024-06-28 09:17:35 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
