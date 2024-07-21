@@ -38,66 +38,66 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.112.25			alive.github.com
+140.82.113.26			alive.github.com
 140.82.113.26			live.github.com
 185.199.109.154			github.githubassets.com
-140.82.114.21			central.github.com
-185.199.111.133			desktop.githubusercontent.com
+140.82.113.21			central.github.com
+185.199.108.133			desktop.githubusercontent.com
 185.199.111.153			assets-cdn.github.com
-185.199.109.133			camo.githubusercontent.com
-185.199.108.133			github.map.fastly.net
+185.199.108.133			camo.githubusercontent.com
+185.199.111.133			github.map.fastly.net
 151.101.129.194			github.global.ssl.fastly.net
-140.82.114.4			gist.github.com
-185.199.111.153			github.io
-140.82.113.4			github.com
+140.82.116.3			gist.github.com
+185.199.108.153			github.io
+140.82.116.3			github.com
 192.0.66.2			github.blog
-140.82.114.5			api.github.com
+140.82.116.6			api.github.com
 185.199.111.133			raw.githubusercontent.com
-185.199.109.133			user-images.githubusercontent.com
-185.199.108.133			favicons.githubusercontent.com
-185.199.109.133			avatars5.githubusercontent.com
-185.199.110.133			avatars4.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
-185.199.109.133			avatars2.githubusercontent.com
-185.199.110.133			avatars1.githubusercontent.com
+185.199.111.133			user-images.githubusercontent.com
+185.199.109.133			favicons.githubusercontent.com
+185.199.111.133			avatars5.githubusercontent.com
+185.199.108.133			avatars4.githubusercontent.com
+185.199.111.133			avatars3.githubusercontent.com
+185.199.111.133			avatars2.githubusercontent.com
+185.199.108.133			avatars1.githubusercontent.com
 185.199.110.133			avatars0.githubusercontent.com
-185.199.111.133			avatars.githubusercontent.com
-140.82.112.10			codeload.github.com
-3.5.25.68			github-cloud.s3.amazonaws.com
-3.5.29.40			github-com.s3.amazonaws.com
-52.217.82.252			github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.196.209			github-production-user-asset-6210df.s3.amazonaws.com
-54.231.196.209			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.133			avatars.githubusercontent.com
+140.82.116.9			codeload.github.com
+3.5.25.211			github-cloud.s3.amazonaws.com
+52.217.168.1			github-com.s3.amazonaws.com
+54.231.192.145			github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.198.81			github-production-user-asset-6210df.s3.amazonaws.com
+52.217.94.220			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 140.82.112.18			github.community
-52.224.38.193			github.dev
+20.99.227.183			github.dev
 185.199.111.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-07-21 10:36:28 
+# Last Update Time : 2024-07-21 12:20:41 
 
 #steam Start
-23.214.234.105			steamcommunity.com
-23.213.69.147			www.steamcommunity.com
-104.123.153.18			media.steamcommunity.com
-23.205.97.108			store.steampowered.com
-23.214.234.105			api.steampowered.com
-23.214.234.105			help.steampowered.com
-104.123.153.18			steamcdn-a.akamaihd.net
-23.213.69.147			steam-chat.com
+23.222.161.105			steamcommunity.com
+23.40.174.97			www.steamcommunity.com
+96.16.55.143			media.steamcommunity.com
+23.45.137.115			store.steampowered.com
+23.222.161.105			api.steampowered.com
+23.222.161.105			help.steampowered.com
+23.67.33.202			steamcdn-a.akamaihd.net
+23.40.174.97			steam-chat.com
 #steam End
-# Last Update Time : 2024-07-21 10:36:29 
+# Last Update Time : 2024-07-21 12:20:41 
 
 #Ubisoft_download Start
-23.222.201.62			static3.cdn.Ubi.com
-23.60.65.215			static2.cdn.Ubi.com
-84.53.139.65			static1.cdn.Ubi.com
+23.40.25.65			static3.cdn.Ubi.com
+96.16.69.110			static2.cdn.Ubi.com
+####			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-07-21 10:36:29 
+# Last Update Time : 2024-07-21 12:20:41 
 
 #Blizzard Start
-137.221.105.168			prod.actual.battle.net
+137.221.104.184			prod.actual.battle.net
 #Blizzard End
-# Last Update Time : 2024-07-21 10:36:29 
+# Last Update Time : 2024-07-21 12:20:41 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
