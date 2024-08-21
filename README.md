@@ -44,60 +44,60 @@ win + R 后执行 `shell:startup`
 140.82.113.22			central.github.com
 185.199.109.133			desktop.githubusercontent.com
 185.199.108.153			assets-cdn.github.com
-185.199.110.133			camo.githubusercontent.com
-185.199.108.133			github.map.fastly.net
+185.199.108.133			camo.githubusercontent.com
+185.199.110.133			github.map.fastly.net
 151.101.129.194			github.global.ssl.fastly.net
-140.82.112.3			gist.github.com
+140.82.113.4			gist.github.com
 185.199.108.153			github.io
-140.82.113.4			github.com
+140.82.114.4			github.com
 192.0.66.2			github.blog
-140.82.112.5			api.github.com
+140.82.113.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
 185.199.111.133			user-images.githubusercontent.com
-185.199.109.133			favicons.githubusercontent.com
+185.199.111.133			favicons.githubusercontent.com
 185.199.111.133			avatars5.githubusercontent.com
-185.199.111.133			avatars4.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
-185.199.109.133			avatars2.githubusercontent.com
-185.199.108.133			avatars1.githubusercontent.com
-185.199.108.133			avatars0.githubusercontent.com
-185.199.110.133			avatars.githubusercontent.com
-140.82.114.9			codeload.github.com
-52.216.236.171			github-cloud.s3.amazonaws.com
-16.182.37.153			github-com.s3.amazonaws.com
-3.5.25.70			github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.236.171			github-production-user-asset-6210df.s3.amazonaws.com
-54.231.204.73			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.153			githubstatus.com
-140.82.113.18			github.community
+185.199.108.133			avatars4.githubusercontent.com
+185.199.109.133			avatars3.githubusercontent.com
+185.199.110.133			avatars2.githubusercontent.com
+185.199.111.133			avatars1.githubusercontent.com
+185.199.110.133			avatars0.githubusercontent.com
+185.199.111.133			avatars.githubusercontent.com
+140.82.112.10			codeload.github.com
+16.182.33.49			github-cloud.s3.amazonaws.com
+16.182.33.169			github-com.s3.amazonaws.com
+54.231.198.89			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.27.239			github-production-user-asset-6210df.s3.amazonaws.com
+16.182.33.169			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153			githubstatus.com
+140.82.112.17			github.community
 52.224.38.193			github.dev
 185.199.110.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-08-22 04:19:33 
+# Last Update Time : 2024-08-22 06:16:58 
 
 #steam Start
-23.65.19.99			steamcommunity.com
-23.50.36.90			www.steamcommunity.com
-23.33.29.83			media.steamcommunity.com
-23.205.97.108			store.steampowered.com
-23.65.19.99			api.steampowered.com
-23.65.19.99			help.steampowered.com
+23.15.74.105			steamcommunity.com
+23.12.69.147			www.steamcommunity.com
+23.205.105.20			media.steamcommunity.com
+23.220.116.138			store.steampowered.com
+23.15.74.105			api.steampowered.com
+23.15.74.105			help.steampowered.com
 23.215.0.136			steamcdn-a.akamaihd.net
-23.50.36.90			steam-chat.com
+23.12.69.147			steam-chat.com
 #steam End
-# Last Update Time : 2024-08-22 04:19:33 
+# Last Update Time : 2024-08-22 06:16:59 
 
 #Ubisoft_download Start
 23.222.201.62			static3.cdn.Ubi.com
 23.221.241.203			static2.cdn.Ubi.com
 2.16.40.64			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-08-22 04:19:33 
+# Last Update Time : 2024-08-22 06:16:59 
 
 #Blizzard Start
 137.221.104.184			prod.actual.battle.net
 #Blizzard End
-# Last Update Time : 2024-08-22 04:19:33 
+# Last Update Time : 2024-08-22 06:16:59 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
