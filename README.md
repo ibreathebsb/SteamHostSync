@@ -38,66 +38,66 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.114.26			alive.github.com
-140.82.114.25			live.github.com
-185.199.111.154			github.githubassets.com
+140.82.112.25			alive.github.com
+140.82.113.26			live.github.com
+185.199.109.154			github.githubassets.com
 140.82.114.22			central.github.com
-185.199.110.133			desktop.githubusercontent.com
-185.199.109.153			assets-cdn.github.com
-185.199.111.133			camo.githubusercontent.com
-185.199.108.133			github.map.fastly.net
+185.199.111.133			desktop.githubusercontent.com
+185.199.108.153			assets-cdn.github.com
+185.199.108.133			camo.githubusercontent.com
+185.199.109.133			github.map.fastly.net
 151.101.1.194			github.global.ssl.fastly.net
 140.82.112.3			gist.github.com
-185.199.111.153			github.io
-140.82.114.4			github.com
+185.199.108.153			github.io
+140.82.114.3			github.com
 192.0.66.2			github.blog
-140.82.114.5			api.github.com
-185.199.111.133			raw.githubusercontent.com
-185.199.109.133			user-images.githubusercontent.com
-185.199.111.133			favicons.githubusercontent.com
-185.199.109.133			avatars5.githubusercontent.com
-185.199.111.133			avatars4.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
-185.199.109.133			avatars2.githubusercontent.com
-185.199.109.133			avatars1.githubusercontent.com
-185.199.108.133			avatars0.githubusercontent.com
-185.199.109.133			avatars.githubusercontent.com
-140.82.112.9			codeload.github.com
-52.216.76.76			github-cloud.s3.amazonaws.com
-52.216.208.249			github-com.s3.amazonaws.com
-3.5.22.12			github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.136.177			github-production-user-asset-6210df.s3.amazonaws.com
-3.5.22.12			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.153			githubstatus.com
-140.82.112.17			github.community
+140.82.114.6			api.github.com
+185.199.109.133			raw.githubusercontent.com
+185.199.111.133			user-images.githubusercontent.com
+185.199.110.133			favicons.githubusercontent.com
+185.199.111.133			avatars5.githubusercontent.com
+185.199.109.133			avatars4.githubusercontent.com
+185.199.111.133			avatars3.githubusercontent.com
+185.199.111.133			avatars2.githubusercontent.com
+185.199.110.133			avatars1.githubusercontent.com
+185.199.110.133			avatars0.githubusercontent.com
+185.199.108.133			avatars.githubusercontent.com
+140.82.112.10			codeload.github.com
+52.217.167.25			github-cloud.s3.amazonaws.com
+54.231.228.225			github-com.s3.amazonaws.com
+52.217.167.25			github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.226.65			github-production-user-asset-6210df.s3.amazonaws.com
+52.217.227.201			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153			githubstatus.com
+140.82.113.17			github.community
 52.224.38.193			github.dev
-185.199.108.133			media.githubusercontent.com
+185.199.110.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-08-27 10:38:48 
+# Last Update Time : 2024-08-27 12:25:00 
 
 #steam Start
-23.65.19.99			steamcommunity.com
-23.50.36.90			www.steamcommunity.com
-23.205.89.82			media.steamcommunity.com
-23.11.197.66			store.steampowered.com
-23.65.19.99			api.steampowered.com
-23.65.19.99			help.steampowered.com
-23.54.76.12			steamcdn-a.akamaihd.net
-23.50.36.90			steam-chat.com
+23.214.234.105			steamcommunity.com
+23.213.69.147			www.steamcommunity.com
+23.46.150.35			media.steamcommunity.com
+23.45.149.185			store.steampowered.com
+23.214.234.105			api.steampowered.com
+23.214.234.105			help.steampowered.com
+23.46.150.74			steamcdn-a.akamaihd.net
+23.213.69.147			steam-chat.com
 #steam End
-# Last Update Time : 2024-08-27 10:38:48 
+# Last Update Time : 2024-08-27 12:25:00 
 
 #Ubisoft_download Start
-23.196.49.60			static3.cdn.Ubi.com
-23.11.209.98			static2.cdn.Ubi.com
-95.100.175.67			static1.cdn.Ubi.com
+23.222.201.62			static3.cdn.Ubi.com
+23.221.241.203			static2.cdn.Ubi.com
+2.16.40.64			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-08-27 10:38:49 
+# Last Update Time : 2024-08-27 12:25:00 
 
 #Blizzard Start
-137.221.104.184			prod.actual.battle.net
+137.221.105.168			prod.actual.battle.net
 #Blizzard End
-# Last Update Time : 2024-08-27 10:38:49 
+# Last Update Time : 2024-08-27 12:25:00 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
