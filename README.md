@@ -38,66 +38,66 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.113.26			alive.github.com
-140.82.113.25			live.github.com
-185.199.108.154			github.githubassets.com
-140.82.114.21			central.github.com
-185.199.111.133			desktop.githubusercontent.com
-185.199.110.153			assets-cdn.github.com
+140.82.112.26			alive.github.com
+140.82.112.25			live.github.com
+185.199.111.154			github.githubassets.com
+140.82.113.21			central.github.com
+185.199.109.133			desktop.githubusercontent.com
+185.199.108.153			assets-cdn.github.com
 185.199.111.133			camo.githubusercontent.com
-185.199.110.133			github.map.fastly.net
-151.101.129.194			github.global.ssl.fastly.net
-140.82.112.3			gist.github.com
-185.199.109.153			github.io
-140.82.113.4			github.com
+185.199.111.133			github.map.fastly.net
+151.101.1.194			github.global.ssl.fastly.net
+140.82.114.4			gist.github.com
+185.199.108.153			github.io
+140.82.112.4			github.com
 192.0.66.2			github.blog
 140.82.112.5			api.github.com
-185.199.109.133			raw.githubusercontent.com
+185.199.108.133			raw.githubusercontent.com
 185.199.109.133			user-images.githubusercontent.com
-185.199.111.133			favicons.githubusercontent.com
-185.199.108.133			avatars5.githubusercontent.com
-185.199.111.133			avatars4.githubusercontent.com
+185.199.110.133			favicons.githubusercontent.com
+185.199.109.133			avatars5.githubusercontent.com
+185.199.109.133			avatars4.githubusercontent.com
 185.199.110.133			avatars3.githubusercontent.com
 185.199.110.133			avatars2.githubusercontent.com
-185.199.109.133			avatars1.githubusercontent.com
+185.199.111.133			avatars1.githubusercontent.com
 185.199.109.133			avatars0.githubusercontent.com
-185.199.109.133			avatars.githubusercontent.com
-140.82.114.9			codeload.github.com
-52.216.163.163			github-cloud.s3.amazonaws.com
-52.217.224.33			github-com.s3.amazonaws.com
-52.217.15.92			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.15.92			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.15.92			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.110.153			githubstatus.com
-140.82.114.18			github.community
+185.199.111.133			avatars.githubusercontent.com
+140.82.112.9			codeload.github.com
+54.231.198.17			github-cloud.s3.amazonaws.com
+3.5.25.28			github-com.s3.amazonaws.com
+16.15.178.31			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.8.207			github-production-user-asset-6210df.s3.amazonaws.com
+52.217.140.129			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.153			githubstatus.com
+140.82.112.18			github.community
 52.224.38.193			github.dev
-185.199.108.133			media.githubusercontent.com
+185.199.109.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-10-26 22:16:41 
+# Last Update Time : 2024-10-27 00:23:27 
 
 #steam Start
-23.47.27.74			steamcommunity.com
-104.94.121.98			www.steamcommunity.com
-23.3.13.152			media.steamcommunity.com
-23.50.228.98			store.steampowered.com
-23.47.27.74			api.steampowered.com
-23.47.27.74			help.steampowered.com
-23.199.55.31			steamcdn-a.akamaihd.net
-104.94.121.98			steam-chat.com
+23.210.138.105			steamcommunity.com
+23.62.69.145			www.steamcommunity.com
+23.35.69.153			media.steamcommunity.com
+23.205.97.108			store.steampowered.com
+23.210.138.105			api.steampowered.com
+23.210.138.105			help.steampowered.com
+23.220.246.181			steamcdn-a.akamaihd.net
+23.62.69.145			steam-chat.com
 #steam End
-# Last Update Time : 2024-10-26 22:16:41 
+# Last Update Time : 2024-10-27 00:23:27 
 
 #Ubisoft_download Start
-23.220.136.248			static3.cdn.Ubi.com
-23.62.165.107			static2.cdn.Ubi.com
+23.38.253.20			static3.cdn.Ubi.com
+23.44.17.212			static2.cdn.Ubi.com
 193.108.91.206			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-10-26 22:16:41 
+# Last Update Time : 2024-10-27 00:23:27 
 
 #Blizzard Start
-137.221.105.168			prod.actual.battle.net
+137.221.104.184			prod.actual.battle.net
 #Blizzard End
-# Last Update Time : 2024-10-26 22:16:41 
+# Last Update Time : 2024-10-27 00:23:27 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
