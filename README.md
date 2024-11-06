@@ -38,66 +38,66 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.113.26			alive.github.com
-140.82.114.25			live.github.com
-185.199.111.154			github.githubassets.com
-140.82.112.22			central.github.com
+140.82.112.26			alive.github.com
+140.82.114.26			live.github.com
+185.199.110.154			github.githubassets.com
+140.82.113.21			central.github.com
 185.199.109.133			desktop.githubusercontent.com
-185.199.109.153			assets-cdn.github.com
+185.199.111.153			assets-cdn.github.com
 185.199.110.133			camo.githubusercontent.com
-185.199.109.133			github.map.fastly.net
-151.101.1.194			github.global.ssl.fastly.net
-140.82.113.4			gist.github.com
-185.199.109.153			github.io
-140.82.114.4			github.com
+185.199.110.133			github.map.fastly.net
+151.101.129.194			github.global.ssl.fastly.net
+140.82.112.3			gist.github.com
+185.199.111.153			github.io
+140.82.113.3			github.com
 192.0.66.2			github.blog
-140.82.113.5			api.github.com
-185.199.110.133			raw.githubusercontent.com
+140.82.114.5			api.github.com
+185.199.111.133			raw.githubusercontent.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.109.133			favicons.githubusercontent.com
-185.199.108.133			avatars5.githubusercontent.com
-185.199.109.133			avatars4.githubusercontent.com
+185.199.111.133			avatars5.githubusercontent.com
+185.199.110.133			avatars4.githubusercontent.com
 185.199.111.133			avatars3.githubusercontent.com
-185.199.109.133			avatars2.githubusercontent.com
-185.199.108.133			avatars1.githubusercontent.com
+185.199.111.133			avatars2.githubusercontent.com
+185.199.109.133			avatars1.githubusercontent.com
 185.199.109.133			avatars0.githubusercontent.com
-185.199.111.133			avatars.githubusercontent.com
-140.82.114.9			codeload.github.com
-54.231.130.9			github-cloud.s3.amazonaws.com
-16.182.107.73			github-com.s3.amazonaws.com
-54.231.168.201			github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.214.49			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.234.89			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.111.153			githubstatus.com
+185.199.110.133			avatars.githubusercontent.com
+140.82.112.10			codeload.github.com
+52.217.10.252			github-cloud.s3.amazonaws.com
+16.182.70.49			github-com.s3.amazonaws.com
+52.217.227.185			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.20.157			github-production-user-asset-6210df.s3.amazonaws.com
+54.231.235.145			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.109.153			githubstatus.com
 140.82.114.18			github.community
-52.224.38.193			github.dev
+20.99.227.183			github.dev
 185.199.110.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-11-06 18:21:20 
+# Last Update Time : 2024-11-06 20:39:32 
 
 #steam Start
-23.214.234.105			steamcommunity.com
-23.213.69.147			www.steamcommunity.com
-23.3.13.27			media.steamcommunity.com
-23.210.240.66			store.steampowered.com
-23.214.234.105			api.steampowered.com
-23.214.234.105			help.steampowered.com
-23.215.0.133			steamcdn-a.akamaihd.net
-23.213.69.147			steam-chat.com
+23.51.204.111			steamcommunity.com
+173.222.227.129			www.steamcommunity.com
+23.45.173.47			media.steamcommunity.com
+23.45.41.205			store.steampowered.com
+23.51.204.111			api.steampowered.com
+23.51.204.111			help.steampowered.com
+23.67.33.202			steamcdn-a.akamaihd.net
+173.222.227.129			steam-chat.com
 #steam End
-# Last Update Time : 2024-11-06 18:21:20 
+# Last Update Time : 2024-11-06 20:39:32 
 
 #Ubisoft_download Start
-23.222.201.62			static3.cdn.Ubi.com
-23.210.1.110			static2.cdn.Ubi.com
-####			static1.cdn.Ubi.com
+184.28.149.32			static3.cdn.Ubi.com
+23.37.17.207			static2.cdn.Ubi.com
+193.108.91.206			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-11-06 18:21:20 
+# Last Update Time : 2024-11-06 20:39:32 
 
 #Blizzard Start
-137.221.105.168			prod.actual.battle.net
+137.221.104.184			prod.actual.battle.net
 #Blizzard End
-# Last Update Time : 2024-11-06 18:21:20 
+# Last Update Time : 2024-11-06 20:39:32 
 
 #Github: https://github.com/Clov614/SteamHostSync
 
